@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.odd {
+  background-color: rgb(245, 118, 171);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+  color: rgb(18, 30, 196);
+  font-size: 36px;
+}
+
+#third {
+  font-size: 24px;
+}
+
+#fourth {
+  background-color: rgb(117, 235, 115);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* I could have added a new class to the 3rd and 4th member (e.g.
+ * adjust-font-size) to avoid the repetition of font-size: 24%; */
+
